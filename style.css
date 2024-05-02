@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(52, 2, 99);
+}
+h2 {
+    background-color: rgb(205, 218, 23);
+    color: rgb(52, 2, 99);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgb(187, 0, 255);
+}
